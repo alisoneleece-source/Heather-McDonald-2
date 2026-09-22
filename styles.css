@@ -18,3 +18,4 @@
 .merch-photo>img.merch-mug{height:auto;aspect-ratio:1;mix-blend-mode:multiply;clip-path:none}.merch-photo>img.mug-body{mix-blend-mode:normal;clip-path:polygon(20% 24%,21% 22%,27% 21%,39% 20.4%,53% 20.6%,64% 21.5%,69% 23%,70% 31%,69% 64%,69% 74%,68% 80%,63% 83%,52% 85%,39% 85%,29% 83%,23% 80%,20% 77%);z-index:3}
 /* Softer reference buttons and clean, un-underlined links. */
 a{text-decoration:none}.button{border-radius:12px}.header .nav-join{border-radius:12px}.hero .actions .button:first-child{background:#98576e;border-color:#98576e}.hero .actions .button:first-child:hover{background:#84475d;border-color:#84475d}
+.mini-covers a:first-child img{transform:scale(1.23) translateY(-13%)}
