@@ -13,3 +13,6 @@
 .merch-photo{isolation:auto}.mini-covers a:first-child img{object-position:center top;transform-origin:center top}.scoop-icon{color:#d95991}.button .scoop-icon,.nav-join .scoop-icon{color:#ff97c4}
 .mini-covers a:first-child img{transform:scale(1.23) translateY(-7%)}.stage-photo img{position:absolute;width:671.5%;max-width:none;height:112.9%;left:-325.6%;top:0;object-fit:fill;transform:none}.extras-page h1{font-size:65px;margin:0;line-height:1.12;letter-spacing:-2px}@media(max-width:760px){.extras-page h1{font-size:48px}}
 .stage-photo{width:100%;height:auto;aspect-ratio:305/349;align-self:center;background:transparent}
+/* Reference emphasis and opaque foreground merchandise. */
+.live-card h2 em{display:inline-block;font-size:1.6em;line-height:1.04}.merch-photo>img.merch-mug{mix-blend-mode:normal;clip-path:ellipse(45% 43% at 50% 51%)}
+.merch-photo>img.merch-mug{height:auto;aspect-ratio:1;mix-blend-mode:multiply;clip-path:none}.merch-photo>img.mug-body{mix-blend-mode:normal;clip-path:polygon(20% 24%,21% 22%,27% 21%,39% 20.4%,53% 20.6%,64% 21.5%,69% 23%,70% 31%,69% 64%,69% 74%,68% 80%,63% 83%,52% 85%,39% 85%,29% 83%,23% 80%,20% 77%);z-index:3}
