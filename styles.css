@@ -20,3 +20,5 @@
 a{text-decoration:none}.button{border-radius:12px}.header .nav-join{border-radius:12px}.hero .actions .button:first-child{background:#98576e;border-color:#98576e}.hero .actions .button:first-child:hover{background:#84475d;border-color:#84475d}
 .mini-covers a:first-child img{transform:scale(1.23) translateY(-13%)}
 .mini-covers a:first-child img{transform:none;object-fit:contain;object-position:center}.mini-covers{aspect-ratio:auto;height:auto}.mini-covers a{height:auto;aspect-ratio:2}.mini-covers img{height:100%}
+
+.scoop-icon,.button .scoop-icon,.nav-join .scoop-icon{color:#bd286b;stroke-width:2.5}
