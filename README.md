@@ -12,7 +12,7 @@ Open `index.html` directly, or run `python3 -m http.server 4173` from this folde
 - Real supplied Juicy Scoop and Juicy Crimes cover artwork.
 - Apple Podcasts, Spotify, YouTube, and Patreon (labelled membership).
 - Official tour calendar link; no invented or stale dates.
-- Juicy Extras: verified hoodie, coffee mug and publisher links for both memoirs.
+- Compact three-card row: podcasts, live shows with the supplied stage photo, and Juicy Extras linking to the official shop and verified hoodie.
 - Facebook, Instagram and TikTok icons only. No newsletter, email capture or social image feed.
 - Semantic HTML, skip link, keyboard focus states, mobile menu with Escape support, reduced-motion support, local images and system fonts.
 
@@ -36,4 +36,4 @@ No prices, availability promises or checkout are copied into this site. Sellers 
 
 ## Validation
 
-Desktop 1440px and phone 390px visually inspected. All six local images load. Mobile menu opens, closes after navigation and supports Escape. Internal anchors resolve; no horizontal overflow at tested widths. Full-page desktop and mobile screenshots are supplied alongside the website folder.
+Desktop 1440px and phone 390px visually inspected. All displayed local images load. Mobile menu opens, closes after navigation and supports Escape. Internal anchors resolve; no horizontal overflow at tested widths. Full-page desktop and mobile screenshots are supplied alongside the website folder.
