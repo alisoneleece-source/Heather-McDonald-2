@@ -22,3 +22,4 @@ a{text-decoration:none}.button{border-radius:12px}.header .nav-join{border-radiu
 .mini-covers a:first-child img{transform:none;object-fit:contain;object-position:center}.mini-covers{aspect-ratio:auto;height:auto}.mini-covers a{height:auto;aspect-ratio:2}.mini-covers img{height:100%}
 
 .scoop-icon,.button .scoop-icon,.nav-join .scoop-icon{color:#bd286b;stroke-width:2.5}
+.supplied-shop-card{padding:0;background:transparent;box-shadow:none;overflow:visible}.supplied-shop-card>a{display:flex;align-items:center;width:100%;height:100%;border-radius:12px}.supplied-shop-card img{display:block;width:100%;height:auto;border-radius:12px}.supplied-shop-card>a:focus-visible{outline:3px solid #286ca0;outline-offset:4px}
